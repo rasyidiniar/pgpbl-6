@@ -3,6 +3,7 @@
     "leaflet": "^1.9.4"
   },
   "devDependencies": {
+    "@angular/cli": "^18.2.5",
     "@types/leaflet": "^1.9.12"
   }
 }
